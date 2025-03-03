@@ -78,16 +78,8 @@
 ---
 
 
-## 📷 세탁기 전면
+## 📷 전면
 ![세탁기 전](https://private-user-images.githubusercontent.com/122363990/418546274-f3077d20-78e9-4991-95b7-33c419efa86f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwMDA0MDcsIm5iZiI6MTc0MTAwMDEwNywicGF0aCI6Ii8xMjIzNjM5OTAvNDE4NTQ2Mjc0LWYzMDc3ZDIwLTc4ZTktNDk5MS05NWI3LTMzYzQxOWVmYTg2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwM1QxMTA4MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzY1ZWNmNTU2M2I4ZDYzMzMwMjYzZDljYjI3Mjk1NzU2MTMwYjUxNTQzZjUwMWU0MGQxOThjZTA5YzQ1NmQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.t3myjZoZlfHOH3j1VcIFJRXHCdX6LVA1hV2a8SEX7CY)
-
-
----
-
-
-## 🔗 블로그: 프로젝트 관련 포스트
-- [YOLOv8 학습 및 모델 적용 과정](https://djjin02.tistory.com/205)
-- [객체 탐지 웹 애플리케이션 구현](https://djjin02.tistory.com/207)
 
 
 ---
