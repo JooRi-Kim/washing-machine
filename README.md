@@ -54,7 +54,7 @@
 
 
 ## 📊 기능블록도
-![기능 블록도](https://github.com/JooRi-Kim/washing-machine/issues/1#issue-2890924112)
+![image](https://github.com/user-attachments/assets/867185a9-095a-4c1e-9631-017191427c56)
 
 
 ---
@@ -81,8 +81,10 @@
 ## 📷 전면
 ![image](https://github.com/user-attachments/assets/1479ff40-cc30-43ee-9c23-bb16cd6eafe3)
 
-![세탁기 전면](https://private-user-images.githubusercontent.com/122363990/418546274-f3077d20-78e9-4991-95b7-33c419efa86f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2NjMwNzAsIm5iZiI6MTc0MTY2Mjc3MCwicGF0aCI6Ii8xMjIzNjM5OTAvNDE4NTQ2Mjc0LWYzMDc3ZDIwLTc4ZTktNDk5MS05NWI3LTMzYzQxOWVmYTg2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMVQwMzEyNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTAwNjZjYzVlNmEyZTNkZWViNjBjYjdjNWQ0MzA1NjQ3NDEwMDdlYThjNTI4ZWY4ZTJhMzI2YmEyMWJkZDlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VYoE08RVOEyZhjF4KS9HN58oeB2xy6l15YJGnSqrKDA)
-)
 
 ---
 
+## 🔗 블로그: 프로젝트 관련 포스트
+- [IoT 기반 세탁기 시스템](https://djjin02.tistory.com/216)
+
+  
