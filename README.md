@@ -79,9 +79,10 @@
 
 
 ## 📷 전면
-![세탁기 전](![image](https://github.com/user-attachments/assets/2cc1f302-65e8-4d41-90c1-f017939d0f50)
-)
+![image](https://github.com/user-attachments/assets/1479ff40-cc30-43ee-9c23-bb16cd6eafe3)
 
+![세탁기 전면](https://private-user-images.githubusercontent.com/122363990/418546274-f3077d20-78e9-4991-95b7-33c419efa86f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2NjMwNzAsIm5iZiI6MTc0MTY2Mjc3MCwicGF0aCI6Ii8xMjIzNjM5OTAvNDE4NTQ2Mjc0LWYzMDc3ZDIwLTc4ZTktNDk5MS05NWI3LTMzYzQxOWVmYTg2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMVQwMzEyNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTAwNjZjYzVlNmEyZTNkZWViNjBjYjdjNWQ0MzA1NjQ3NDEwMDdlYThjNTI4ZWY4ZTJhMzI2YmEyMWJkZDlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VYoE08RVOEyZhjF4KS9HN58oeB2xy6l15YJGnSqrKDA)
+)
 
 ---
 
